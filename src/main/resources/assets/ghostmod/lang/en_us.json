@@ -1,0 +1,8 @@
+{
+	"key.ghostmod.open_item_give": "Open Item Give GUI",
+	"category.ghostmod": "GhostMod",
+	"screen.ghostmod.item_give": "Item Give",
+	"screen.ghostmod.search": "Search items...",
+	"message.ghostmod.no_permission": "You must be in singleplayer or have OP to use this feature.",
+	"message.ghostmod.given": "Given stack of %s"
+}
